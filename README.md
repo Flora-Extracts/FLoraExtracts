@@ -1,4 +1,4 @@
-# Flora Extracts Deployment Branch
+# Flora Extracts Website - Deployment Branch
 
 This branch exclusively contains the build files derived from the master branch, specifically crafted for deployment purposes. Here's a brief overview of the contents:
 
